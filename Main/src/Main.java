@@ -17,6 +17,6 @@ public class Main {
     }
 
     public void fly() {
-        System.out.println("Flying...");
+        System.out.println("Flying.");
     }
 }
