@@ -8,15 +8,15 @@ public class Main {
 
     public void walk() {
 
-        System.out.println("walking...");
+        System.out.println("walking.");
     }
 
     public void drive() {
 
-        System.out.println("driving...");
+        System.out.println("driving.");
     }
 
     public void fly() {
-        System.out.println("Flying...");
+        System.out.println("Flying.");
     }
 }
