@@ -3,6 +3,11 @@ public class Main {
         System.out.println("Hello, world!");
     }
     public void sayHello() {
+
         System.out.println("hello");
+    }
+
+    public void fly() {
+        System.out.println("Flying...");
     }
 }
